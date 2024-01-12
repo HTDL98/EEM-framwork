@@ -1,4 +1,4 @@
-# EEM-framwork
-Code for the paper EEM: Enhancing Evaluation Model for Large Language Models
+# Opti-Eval
+Code for the paper Opti-Eval: A Systematically Optimized Evaluator for Large Language Model Generation
 
 Our code will be open-sourced soon.
